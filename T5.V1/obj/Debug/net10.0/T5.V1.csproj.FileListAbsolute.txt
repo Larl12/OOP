@@ -1,0 +1,14 @@
+C:\Users\Larl\source\repos\T5.V1\bin\Debug\net10.0\T5.V1.exe
+C:\Users\Larl\source\repos\T5.V1\bin\Debug\net10.0\T5.V1.deps.json
+C:\Users\Larl\source\repos\T5.V1\bin\Debug\net10.0\T5.V1.runtimeconfig.json
+C:\Users\Larl\source\repos\T5.V1\bin\Debug\net10.0\T5.V1.dll
+C:\Users\Larl\source\repos\T5.V1\bin\Debug\net10.0\T5.V1.pdb
+C:\Users\Larl\source\repos\T5.V1\obj\Debug\net10.0\T5.V1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larl\source\repos\T5.V1\obj\Debug\net10.0\T5.V1.AssemblyInfoInputs.cache
+C:\Users\Larl\source\repos\T5.V1\obj\Debug\net10.0\T5.V1.AssemblyInfo.cs
+C:\Users\Larl\source\repos\T5.V1\obj\Debug\net10.0\T5.V1.csproj.CoreCompileInputs.cache
+C:\Users\Larl\source\repos\T5.V1\obj\Debug\net10.0\T5.V1.dll
+C:\Users\Larl\source\repos\T5.V1\obj\Debug\net10.0\refint\T5.V1.dll
+C:\Users\Larl\source\repos\T5.V1\obj\Debug\net10.0\T5.V1.pdb
+C:\Users\Larl\source\repos\T5.V1\obj\Debug\net10.0\T5.V1.genruntimeconfig.cache
+C:\Users\Larl\source\repos\T5.V1\obj\Debug\net10.0\ref\T5.V1.dll

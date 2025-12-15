@@ -1,0 +1,14 @@
+C:\Users\Larl\source\repos\T2\bin\Debug\net10.0\T2.exe
+C:\Users\Larl\source\repos\T2\bin\Debug\net10.0\T2.deps.json
+C:\Users\Larl\source\repos\T2\bin\Debug\net10.0\T2.runtimeconfig.json
+C:\Users\Larl\source\repos\T2\bin\Debug\net10.0\T2.dll
+C:\Users\Larl\source\repos\T2\bin\Debug\net10.0\T2.pdb
+C:\Users\Larl\source\repos\T2\obj\Debug\net10.0\T2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larl\source\repos\T2\obj\Debug\net10.0\T2.AssemblyInfoInputs.cache
+C:\Users\Larl\source\repos\T2\obj\Debug\net10.0\T2.AssemblyInfo.cs
+C:\Users\Larl\source\repos\T2\obj\Debug\net10.0\T2.csproj.CoreCompileInputs.cache
+C:\Users\Larl\source\repos\T2\obj\Debug\net10.0\T2.dll
+C:\Users\Larl\source\repos\T2\obj\Debug\net10.0\refint\T2.dll
+C:\Users\Larl\source\repos\T2\obj\Debug\net10.0\T2.pdb
+C:\Users\Larl\source\repos\T2\obj\Debug\net10.0\T2.genruntimeconfig.cache
+C:\Users\Larl\source\repos\T2\obj\Debug\net10.0\ref\T2.dll

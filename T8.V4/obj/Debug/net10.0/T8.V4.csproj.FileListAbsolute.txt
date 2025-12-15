@@ -1,0 +1,14 @@
+C:\Users\Larl\source\repos\T8.V4\bin\Debug\net10.0\T8.V4.exe
+C:\Users\Larl\source\repos\T8.V4\bin\Debug\net10.0\T8.V4.deps.json
+C:\Users\Larl\source\repos\T8.V4\bin\Debug\net10.0\T8.V4.runtimeconfig.json
+C:\Users\Larl\source\repos\T8.V4\bin\Debug\net10.0\T8.V4.dll
+C:\Users\Larl\source\repos\T8.V4\bin\Debug\net10.0\T8.V4.pdb
+C:\Users\Larl\source\repos\T8.V4\obj\Debug\net10.0\T8.V4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larl\source\repos\T8.V4\obj\Debug\net10.0\T8.V4.AssemblyInfoInputs.cache
+C:\Users\Larl\source\repos\T8.V4\obj\Debug\net10.0\T8.V4.AssemblyInfo.cs
+C:\Users\Larl\source\repos\T8.V4\obj\Debug\net10.0\T8.V4.csproj.CoreCompileInputs.cache
+C:\Users\Larl\source\repos\T8.V4\obj\Debug\net10.0\T8.V4.dll
+C:\Users\Larl\source\repos\T8.V4\obj\Debug\net10.0\refint\T8.V4.dll
+C:\Users\Larl\source\repos\T8.V4\obj\Debug\net10.0\T8.V4.pdb
+C:\Users\Larl\source\repos\T8.V4\obj\Debug\net10.0\T8.V4.genruntimeconfig.cache
+C:\Users\Larl\source\repos\T8.V4\obj\Debug\net10.0\ref\T8.V4.dll

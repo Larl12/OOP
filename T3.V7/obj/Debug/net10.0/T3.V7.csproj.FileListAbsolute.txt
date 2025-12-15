@@ -1,0 +1,14 @@
+C:\Users\Larl\source\repos\T3.V7\bin\Debug\net10.0\T3.V7.exe
+C:\Users\Larl\source\repos\T3.V7\bin\Debug\net10.0\T3.V7.deps.json
+C:\Users\Larl\source\repos\T3.V7\bin\Debug\net10.0\T3.V7.runtimeconfig.json
+C:\Users\Larl\source\repos\T3.V7\bin\Debug\net10.0\T3.V7.dll
+C:\Users\Larl\source\repos\T3.V7\bin\Debug\net10.0\T3.V7.pdb
+C:\Users\Larl\source\repos\T3.V7\obj\Debug\net10.0\T3.V7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Larl\source\repos\T3.V7\obj\Debug\net10.0\T3.V7.AssemblyInfoInputs.cache
+C:\Users\Larl\source\repos\T3.V7\obj\Debug\net10.0\T3.V7.AssemblyInfo.cs
+C:\Users\Larl\source\repos\T3.V7\obj\Debug\net10.0\T3.V7.csproj.CoreCompileInputs.cache
+C:\Users\Larl\source\repos\T3.V7\obj\Debug\net10.0\T3.V7.dll
+C:\Users\Larl\source\repos\T3.V7\obj\Debug\net10.0\refint\T3.V7.dll
+C:\Users\Larl\source\repos\T3.V7\obj\Debug\net10.0\T3.V7.pdb
+C:\Users\Larl\source\repos\T3.V7\obj\Debug\net10.0\T3.V7.genruntimeconfig.cache
+C:\Users\Larl\source\repos\T3.V7\obj\Debug\net10.0\ref\T3.V7.dll
