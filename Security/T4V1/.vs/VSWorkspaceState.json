@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ecom",
+    "\\ecom\\management",
+    "\\ecom\\management\\commands"
+  ],
+  "SelectedNode": "\\ecom\\management\\commands\\seed_demo.py",
+  "PreviewInSolutionExplorer": false
+}
